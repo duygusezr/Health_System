@@ -30,4 +30,11 @@ This project is a **First-Person Shooter (FPS) prototype** developed in **Unity*
 - The player **regains health** by stepping on healing objects.
 - **Healing objects disappear after use**.
 
+- ![Ekran görüntüsü 2025-02-02 204937](https://github.com/user-attachments/assets/d60cb37f-05c9-4cba-b178-c112c13ea6c5)
+- ![Ekran görüntüsü 2025-02-02 204853](https://github.com/user-attachments/assets/f7ac38a4-76e0-4c7d-847b-9c8ce63e9f5a)
+- ![Ekran görüntüsü 2025-02-02 204937](https://github.com/user-attachments/assets/d1a96591-10d3-4ab1-863c-b8064a263a81)
+
+
+
+
 
